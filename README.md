@@ -4,9 +4,17 @@ Exploratory Data Analysis
 
 PLAY STORE APP REVIEW ANALYSIS
 Almabetter, Bengaluru
-Team Members
-Varsha Rani	Vivek Chandrakant Pawar
-Rabista Parween	Tushar Gaikwad
+
+
+Team Member
+
+Varsha Rani	
+
+Vivek Chandrakant Pawar
+
+Rabista Parween	
+
+Tushar Gaikwad
 
 
 
